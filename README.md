@@ -13,7 +13,7 @@ Download and install the x64 linux binary:
 
 ```
 curl http://downloads.drone.io/drone-cli/drone_linux_amd64.tar.gz | tar zx
-sudo install -t /usr/local/bin drone
+sudo install -t /usr/local/bin drone 
 ```
 
 **OSX**
